@@ -30,3 +30,4 @@ Création de la page contact avec le plug-in Contat Form 7 , modification des ch
 Instaltation du plug-in Addtoany share & buttons pour l'insertion des icone permettant le partage des contenus du portfolio
 Création de la page mention légal, insertion des mentions légéles générée via le site SubDelirium
 Création du Sitemap avec le plug-in XML sitemap, ajout du lien sitemap en bas de la page des mentions légales.
+Bug sur le formulaire de contact formulaire non fonctionnelle, changement de plug-in pour Contact Form by WPForms résolution du bug
